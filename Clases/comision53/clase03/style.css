@@ -1,0 +1,22 @@
+.tabla {
+    text-align: justify;
+    vertical-align: top;
+    background-color: antiquewhite;
+}
+
+.img-centro {
+    width: 100%;
+}
+
+.img-inicio {
+    width: 100px;
+    height: 100px;
+}
+
+.logo {
+    height: 70px;
+}
+
+.lupa {
+    width: 30px;
+}
